@@ -49,9 +49,6 @@ Finding safe, affordable, and conveniently located boarding accommodations is on
 | **Database** | MongoDB Atlas, Mongoose 9 | Cloud NoSQL document database with compound indexing |
 | **Security** | JSON Web Tokens (JWT), bcryptjs | Stateless authorization and cryptographic password hashing |
 
-### System Architecture
-System architecture, use case, ER database, and data flow diagrams are located in [`documentation/figures/`](documentation/figures/).
-
 ---
 
 ## 📁 Repository Structure
@@ -118,11 +115,6 @@ Boarding Finder/
 │   ├── index.html
 │   ├── package.json
 │   └── vite.config.js            # Vite build configuration
-├── documentation/
-│   ├── Boarding_Finder_Mini_Project_Report.md   # Complete academic project report
-│   ├── Boarding_Finder_Mini_Project_Report.pdf  # Formatted PDF report
-│   ├── Boarding_Finder_Mini_Project_Report.docx # Editable Word document
-│   └── figures/                  # 13 architectural diagrams and UI screenshots
 └── .gitignore                    # Excludes secrets, dependencies, and build outputs
 ```
 
@@ -228,15 +220,6 @@ node backend/complete_verification.js
 # Run frontend production build test
 cd frontend && npm run build
 ```
-
----
-
-## 📄 Academic Project Documentation
-
-Comprehensive documentation, system requirements specifications, UML diagrams, and testing matrices are included in the [`documentation/`](documentation/) directory:
-- [Academic Mini Project Report (Markdown)](documentation/Boarding_Finder_Mini_Project_Report.md)
-- [Mini Project Report (PDF Document)](documentation/Boarding_Finder_Mini_Project_Report.pdf)
-- [System Architecture and Screenshots](documentation/figures/)
 
 ---
 
