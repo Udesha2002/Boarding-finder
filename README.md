@@ -1,6 +1,8 @@
 ## Live Demo
 
-Visit the website: [Boarding Finder](https://boarding-finder-fib4sh6j5-udesha1.vercel.app/user/bookings)# Boarding Finder – Online Boarding Accommodation Management System
+Visit the website: [Boarding Finder](https://boarding-finder-fib4sh6j5-udesha1.vercel.app/user/bookings)
+
+# Boarding Finder – Online Boarding Accommodation Management System
 
 > A full-stack MERN (MongoDB, Express.js, React.js, Node.js) web application engineered to connect university students and outstation tenants with verified private boarding accommodations and landlords.
 
